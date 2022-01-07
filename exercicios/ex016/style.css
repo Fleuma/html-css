@@ -1,0 +1,10 @@
+* { /* Configurações Globais */
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom, #8B00FC, #AD4CFD, #7101CC,  #45007D);
+    color: white;
+}
